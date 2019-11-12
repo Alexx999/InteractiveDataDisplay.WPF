@@ -15,7 +15,7 @@ namespace InteractiveDataDisplay.WPF
         /// <summary>
         /// Default ticks count for provider.
         /// </summary>
-        public static readonly int DefaultTicksCount = 3;
+        public static readonly int DefaultTicksCount = 4;
         private int ticksCount;
 
         /// <summary>
